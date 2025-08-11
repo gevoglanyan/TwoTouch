@@ -1,6 +1,4 @@
-# 1v1 Penalty Shootout
-
-**Penalty Wars**, an IRL Penalty Shootout Application
+**Two Touch**, an IRL 1v1 Soccer Application
 
 ## Features
 - User Login
