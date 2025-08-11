@@ -1,4 +1,4 @@
-**Two Touch**, an IRL 1v1 Soccer Application
+# **Two Touch**, an IRL 1v1 Soccer Application
 
 ## Features
 - User Login
